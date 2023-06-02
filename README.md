@@ -34,8 +34,7 @@ Este repositorio contiene un dashboard interactivo creado en Power BI que muestr
 # 📰 Fuentes
 - Marco de Gobernanza de Datos del Estado Peruano.[aquí](https://www.datosabiertos.gob.pe/dataset/catalogo-sismico-1960-2021-igp).
 
-### 💡El proceso de ETL de los datos se observan en el Jupyter Notebook
-[aquí](https://github.com/martinushinahu/Analisis-Sismos-Peru/blob/master/sismo_data.ipynb)
+### 💡El proceso de ETL de los datos se observan en el Jupyter Notebook.[aquí](https://github.com/martinushinahu/Analisis-Sismos-Peru/blob/master/sismo_data.ipynb)
 
 # 👥 Contribuciones
 
